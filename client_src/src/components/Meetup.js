@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import axios from 'axios';
-import uuid from 'uuid';
 import _ from 'lodash';
 import MeetupItem from './MeetupItem'
 class Meetup extends Component {
